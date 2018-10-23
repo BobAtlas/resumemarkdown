@@ -29,7 +29,7 @@ high honors, business and science based
 * Autocad
 
 **Programming**
-* C++*
+* C++
 * Python
 
 ### INTERESTS
