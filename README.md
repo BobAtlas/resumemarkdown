@@ -14,11 +14,11 @@ DECEMBER 2017
 high honors, business and science based
 
 ### SKILLS
-# Drafting
+**Drafting**
 * Solidworks
 * Autocad
-# Programming
-* C++
+**Programming**
+* C++*
 * Python
 
 ### SKILLS
